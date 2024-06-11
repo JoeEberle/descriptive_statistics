@@ -1,0 +1,98 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-02 20:37:09,719 - INFO - START data_profiling =============================================
+2023-09-02 20:37:09,719 - INFO - START data_profiling Start Time = 2023-09-02 20:37:09
+2023-09-02 20:37:09,720 - INFO - data_profiling Step 0 - Initialize the configuration file parser
+2023-09-02 20:37:09,747 - INFO - data_profiling - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-02 20:37:17,480 - INFO - PERFORMANCE data_profiling The total process duration was:7.76
+2023-09-02 20:37:17,480 - INFO - PERFORMANCE data_profiling Stop Time = 2023-09-02 20:37:17
+2023-09-02 20:37:17,480 - INFO - PERFORMANCE data_profiling Low process duration less than 3 minutes:7.76
+2023-09-02 20:37:17,481 - INFO - PERFORMANCE data_profiling Performance optimization is optional
+2023-09-02 20:37:17,481 - INFO - END data_profiling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-02 21:53:09,915 - INFO - START data_profiling =============================================
+2023-09-02 21:53:09,915 - INFO - START data_profiling Start Time = 2023-09-02 21:53:09
+2023-09-02 21:53:09,915 - INFO - data_profiling Step 0 - Initialize the configuration file parser
+2023-09-02 21:53:09,943 - INFO - data_profiling - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-02 21:53:17,676 - INFO - PERFORMANCE data_profiling The total process duration was:7.76
+2023-09-02 21:53:17,676 - INFO - PERFORMANCE data_profiling Stop Time = 2023-09-02 21:53:17
+2023-09-02 21:53:17,676 - INFO - PERFORMANCE data_profiling Low process duration less than 3 minutes:7.76
+2023-09-02 21:53:17,676 - INFO - PERFORMANCE data_profiling Performance optimization is optional
+2023-09-02 21:53:17,676 - INFO - END data_profiling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-09 21:58:22,899 - INFO - START data_profiling =============================================
+2023-09-09 21:58:22,899 - INFO - START data_profiling Start Time = 2023-09-09 21:58:22
+2023-09-09 21:58:22,899 - INFO - data_profiling Step 0 - Initialize the configuration file parser
+2023-09-09 21:58:22,925 - INFO - data_profiling - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-09 21:58:33,443 - INFO - PERFORMANCE data_profiling The total process duration was:10.54
+2023-09-09 21:58:33,443 - INFO - PERFORMANCE data_profiling Stop Time = 2023-09-09 21:58:33
+2023-09-09 21:58:33,445 - INFO - PERFORMANCE data_profiling Low process duration less than 3 minutes:10.54
+2023-09-09 21:58:33,445 - INFO - PERFORMANCE data_profiling Performance optimization is optional
+2023-09-09 21:58:33,445 - INFO - END data_profiling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-12 22:04:21,104 - INFO - START data_profiling =============================================
+2023-09-12 22:04:21,104 - INFO - START data_profiling Start Time = 2023-09-12 22:04:21
+2023-09-12 22:04:21,104 - INFO - data_profiling Step 0 - Initialize the configuration file parser
+2023-09-12 22:04:21,130 - INFO - data_profiling - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-12 22:04:33,034 - INFO - PERFORMANCE data_profiling The total process duration was:11.93
+2023-09-12 22:04:33,034 - INFO - PERFORMANCE data_profiling Stop Time = 2023-09-12 22:04:33
+2023-09-12 22:04:33,034 - INFO - PERFORMANCE data_profiling Low process duration less than 3 minutes:11.93
+2023-09-12 22:04:33,034 - INFO - PERFORMANCE data_profiling Performance optimization is optional
+2023-09-12 22:04:33,034 - INFO - END data_profiling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-17 23:37:22,079 - INFO - START data_profiling =============================================
+2023-09-17 23:37:22,079 - INFO - START data_profiling Start Time = 2023-09-17 23:37:22
+2023-09-17 23:37:22,079 - INFO - data_profiling Step 0 - Initialize the configuration file parser
+2023-09-17 23:37:22,107 - INFO - data_profiling - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-17 23:37:33,186 - INFO - PERFORMANCE data_profiling The total process duration was:11.11
+2023-09-17 23:37:33,187 - INFO - PERFORMANCE data_profiling Stop Time = 2023-09-17 23:37:33
+2023-09-17 23:37:33,187 - INFO - PERFORMANCE data_profiling Low process duration less than 3 minutes:11.11
+2023-09-17 23:37:33,187 - INFO - PERFORMANCE data_profiling Performance optimization is optional
+2023-09-17 23:37:33,187 - INFO - END data_profiling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-29 10:40:42,823 - INFO - START data_profiling =============================================
+2023-09-29 10:40:42,823 - INFO - START data_profiling Start Time = 2023-09-29 10:40:42
+2023-09-29 10:40:42,823 - INFO - data_profiling Step 0 - Initialize the configuration file parser
+2023-09-29 10:40:42,852 - INFO - data_profiling - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-29 10:40:54,114 - INFO - PERFORMANCE data_profiling The total process duration was:11.29
+2023-09-29 10:40:54,115 - INFO - PERFORMANCE data_profiling Stop Time = 2023-09-29 10:40:54
+2023-09-29 10:40:54,115 - INFO - PERFORMANCE data_profiling Low process duration less than 3 minutes:11.29
+2023-09-29 10:40:54,115 - INFO - PERFORMANCE data_profiling Performance optimization is optional
+2023-09-29 10:40:54,115 - INFO - END data_profiling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-04-21 10:15:46,753 - INFO - START data_profiling =============================================
+2024-04-21 10:15:46,753 - INFO - START data_profiling Start Time = 2024-04-21 10:15:46
+2024-04-21 10:15:46,753 - INFO - data_profiling Step 0 - Initialize the configuration file parser
+2024-04-21 10:15:46,828 - INFO - data_profiling - Step 1 - Load ANY data set for which to run discovery or data profiling
+2024-04-21 10:15:58,360 - INFO - PERFORMANCE data_profiling The total process duration was:11.61
+2024-04-21 10:15:58,360 - INFO - PERFORMANCE data_profiling Stop Time = 2024-04-21 10:15:58
+2024-04-21 10:15:58,360 - INFO - PERFORMANCE data_profiling Low process duration less than 3 minutes:11.61
+2024-04-21 10:15:58,360 - INFO - PERFORMANCE data_profiling Performance optimization is optional
+2024-04-21 10:15:58,360 - INFO - END data_profiling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
