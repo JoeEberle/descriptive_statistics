@@ -1,0 +1,4 @@
+2024-06-10 21:52:58,025 - INFO - START descriptive_statistics =============================================
+2024-06-10 21:52:58,025 - INFO - START descriptive_statistics Start Time = 2024-06-10 21:52:58
+2024-06-10 21:52:58,025 - INFO - descriptive_statistics Step 0 - Initialize the configuration file parser
+2024-06-10 21:53:17,936 - INFO - descriptive_statistics - Step 1 - Load ANY data set for which to run discovery or data profiling
