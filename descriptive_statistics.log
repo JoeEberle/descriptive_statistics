@@ -2,3 +2,7 @@
 2024-06-14 08:40:47,232 - INFO - START descriptive_statistics Start Time = 2024-06-14 08:40:47
 2024-06-14 08:40:47,232 - INFO - descriptive_statistics Step 0 - Initialize the configuration file parser
 2024-06-14 08:41:15,494 - INFO - descriptive_statistics - Step 1 - Load ANY data set for which to run discovery or data profiling
+2024-06-14 10:16:56,782 - INFO - START descriptive_statistics =============================================
+2024-06-14 10:16:56,784 - INFO - START descriptive_statistics Start Time = 2024-06-14 10:16:56
+2024-06-14 10:16:56,792 - INFO - descriptive_statistics Step 0 - Initialize the configuration file parser
+2024-06-14 10:18:14,924 - INFO - descriptive_statistics - Step 1 - Load ANY data set for which to run discovery or data profiling
