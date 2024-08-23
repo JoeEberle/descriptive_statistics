@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Descriptive Statistics - Descriptive statistics summarize and describe the main features of a dataset through measures such as mean, median, mode, standard deviation, and visualizations.
-Descriptive statistics summarize and describe the main features of a dataset through measures such as mean, median, mode, standard deviation, and visualizations.
+# Descriptive Statistics - process used to analyze the data. 
+process used to analyze the data. 
 
 ![Image image_filename](code.png)
 
