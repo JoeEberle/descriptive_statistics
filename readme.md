@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Descriptive Statistics 
-    ## process used to analyze the data. 
+    
+# Descriptive Statistics 
+
+## process used to analyze the data. 
+
     ![Image image_filename](Descriptive Statistics.png)
 **Descriptive statistics** serve as a fundamental tool for data scientists to comprehend the characteristics of their datasets, enabling them to uncover patterns and trends. By summarizing key features such as central tendency and variability, descriptive statistics offer concise insights into the distribution of data, facilitating informed decision-making and hypothesis testing. Ultimately, their utilization empowers data scientists to extract meaningful interpretations and communicate findings effectively to stakeholders, driving informed actions and solutions.
 
@@ -30,9 +33,9 @@ To get started with the **Descriptive Statistics** solution repository, follow t
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Descriptive Statistics** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -42,6 +45,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](descriptive statistics II.png)  <br>![additional_image](descriptive statistics.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
