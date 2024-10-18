@@ -1,4 +1,4 @@
-![Image image_filename](solution_sign.png)# Descriptive Statistics - process used to analyze the data. ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)# Descriptive Statistics - process used to analyze the data. ![Image image_filename](Descriptive Statistics.png)
 **Descriptive statistics** serve as a fundamental tool for data scientists to comprehend the characteristics of their datasets, enabling them to uncover patterns and trends. By summarizing key features such as central tendency and variability, descriptive statistics offer concise insights into the distribution of data, facilitating informed decision-making and hypothesis testing. Ultimately, their utilization empowers data scientists to extract meaningful interpretations and communicate findings effectively to stakeholders, driving informed actions and solutions.
 
 **Descriptive statistics** involve methods for summarizing and describing the features of the entire dataset. 
@@ -7,7 +7,7 @@ Statistics includes measures such as **mean, median, and mode** for **central te
 
 These statistics offer insights into the **distribution, variability, and characteristics** of the data, aiding in understanding and interpreting its underlying patterns and trends.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
