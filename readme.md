@@ -4,7 +4,7 @@
 
 ## process used to analyze the data. 
 
-    ![Image image_filename](Descriptive Statistics.png)
+    ![Image image_filename](code.png)
 **Descriptive statistics** serve as a fundamental tool for data scientists to comprehend the characteristics of their datasets, enabling them to uncover patterns and trends. By summarizing key features such as central tendency and variability, descriptive statistics offer concise insights into the distribution of data, facilitating informed decision-making and hypothesis testing. Ultimately, their utilization empowers data scientists to extract meaningful interpretations and communicate findings effectively to stakeholders, driving informed actions and solutions.
 
 **Descriptive statistics** involve methods for summarizing and describing the features of the entire dataset. 
@@ -24,6 +24,15 @@ To get started with the **Descriptive Statistics** solution repository, follow t
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     
+## Solution Features
+
+- Easy to understand and use  
+- Easily Configurable 
+- Quickly start your project with pre-built templates
+- Its Fast and Automated
+- Saves You Time 
+
+
 ## Code Features
 
 These features are designed to provide everything you need for **Descriptive Statistics** 
