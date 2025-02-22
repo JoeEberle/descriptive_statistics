@@ -1,3 +1,5 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 2025-02-20 20:44:05,557 - INFO - START descriptive_statistics =============================================
 2025-02-20 20:44:05,557 - INFO - START descriptive_statistics Start Time = 2025-02-20 20:44:05
 2025-02-20 20:44:05,557 - INFO - descriptive_statistics Step 0 - Initialize the configuration file parser
@@ -7,3 +9,6 @@
 2025-02-20 20:49:20,355 - INFO - PERFORMANCE descriptive_statistics Medium process duration greater than 3 minutes:314.80
 2025-02-20 20:49:20,355 - INFO - PERFORMANCE descriptive_statistics Performance optimization is optional
 2025-02-20 20:49:20,355 - INFO - END descriptive_statistics =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
